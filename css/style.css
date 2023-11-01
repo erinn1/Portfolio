@@ -1,5 +1,7 @@
 /* Here we write our CSS */
-
+body{
+    font-family: 'Playfair Display', serif !important;
+}
 
 /* Hero section */
 .hero {
