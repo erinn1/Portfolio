@@ -3,6 +3,13 @@ body{
     font-family: 'Playfair Display', serif !important;
 }
 
+.bi:hover,
+.nav-link:hover, a {
+    fill: #DA4567;
+    color: red !important;
+    text-decoration: none;
+}
+
 /* Hero section */
 .hero {
     height:100vh;
@@ -35,4 +42,8 @@ body{
 
 .hero-title {
     font-size: 4rem;
+}
+
+.profile {
+    max-width: 14rem;
 }
