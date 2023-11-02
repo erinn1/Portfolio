@@ -47,3 +47,7 @@ body{
 .profile {
     max-width: 14rem;
 }
+
+.about-text {
+    margin-left: 3rem;
+}
